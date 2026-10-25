@@ -1,0 +1,12 @@
+button{
+    background-color: rgb(255, 192, 245);
+    border: 4px solid rgb(207, 136, 195);
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(185, 11, 185);
+    border: 4px solid rgb(110, 7, 110);
+}

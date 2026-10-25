@@ -1,0 +1,26 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.box {
+    padding: 20px ;
+    margin: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+button{
+    color: white;
+    height: 30px;
+    border-radius: 15px;
+    border-color: transparent;
+}
+#num1{
+    background-color: teal;
+}
+#num2{
+    background-color: orange;
+    color: black;
+}
+#num3{
+    background-color: purple;
+}
